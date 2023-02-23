@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  navbar:
+    background: navy
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - Publications.qmd
+      - text: "CV"
+        href: CV_2023.pdf
+      - hobbies.qmd
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
+
+
+
