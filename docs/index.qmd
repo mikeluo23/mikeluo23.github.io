@@ -1,0 +1,24 @@
+---
+title: "Welcome"
+about:
+    template: trestles
+    links:
+        - icon: linkedin
+          url: "https://www.linkedin.com/in/michael-luo-031558192/"
+        - icon: github
+          url: "https://github.com/mikeluo23"
+---
+Hello! My name is Michael Luo. I am currently a PhD student at the New Jersey Institute of Technology studying applied mathematics. My research interests are in computational neuroscience and mathematical oncology. 
+
+## Education
+
+Ph.D. Mathematical Sciences - 2025  
+New Jersey Institute of Technology, Newark, NJ  
+GPA: 3.9/4.0
+
+B.S. Mathematics - 2021  
+The College of New Jersey, Ewing, NJ  
+GPA: 4.0/4.0
+
+Email me at ml82@njit.edu if you would like to chat!
+
