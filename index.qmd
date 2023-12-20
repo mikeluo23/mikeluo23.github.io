@@ -9,7 +9,7 @@ about:
         - icon: github
           url: "https://github.com/mikeluo23"
 ---
-Hello! My name is Michael Luo. I am currently a PhD student at the New Jersey Institute of Technology studying applied mathematics. My research interests are in computational neuroscience and mathematical oncology. 
+Hello! My name is Michael Luo. I am currently a PhD student at the New Jersey Institute of Technology studying applied mathematics. My research applies machine learning and deep learning techniques to solve problems in computational neuroscience and mathematical oncology. 
 
 ## Education
 
