@@ -9,17 +9,36 @@ about:
         - icon: github
           url: "https://github.com/mikeluo23"
 ---
-Hello! My name is Michael Luo. I am currently a PhD student at the New Jersey Institute of Technology studying applied mathematics. My research applies machine learning and deep learning techniques to solve problems in computational neuroscience and mathematical oncology. 
+
+Hello! My name is Michael Luo. I am currently a PhD student at the New Jersey Institute of Technology studying applied mathematics. My research applies machine learning and deep learning techniques to solve problems in computational neuroscience and mathematical oncology.
+
+::: {.card-grid}
+::: {.modern-card}
+### 🧠 Research Focus
+Computational neuroscience, oncology modeling, and machine learning for complex biological systems.
+:::
+
+::: {.modern-card}
+### 📍 Current Role
+Ph.D. student in Mathematical Sciences at NJIT with a focus on data-driven modeling.
+:::
+
+::: {.modern-card}
+### 🤝 Connect
+Feel free to connect on LinkedIn or GitHub through the icons in the profile section.
+:::
+:::
 
 ## Education
 
-Ph.D. Mathematical Sciences - 2025  
+Ph.D. Mathematical Sciences — 2025  
 New Jersey Institute of Technology, Newark, NJ  
 GPA: 3.9/4.0
 
-B.S. Mathematics - 2021  
+B.S. Mathematics — 2021  
 The College of New Jersey, Ewing, NJ  
 GPA: 4.0/4.0
 
-Email me at ml82@njit.edu if you would like to chat!
-
+::: {.callout-note}
+I am always open to collaborating on interesting mathematical modeling and machine learning problems. Email me at **ml82@njit.edu**.
+:::
